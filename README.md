@@ -1,2 +1,3 @@
 # 8-Puzzle
-8-Puzzle Game Algorithm
+8-Puzzle Game Solving Algorithms
+ DFS, BFS, A* Algorithm
